@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Seafoam Pipeline Pro"
 date: 2026-06-01
 description: "Pipeline building for professional services: consultants, coaches, and service providers."
